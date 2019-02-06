@@ -1,2 +1,3 @@
-# gntlm
-Go proxy server, supporting ntlm authentication
+<p align="center">
+<img src="docs/img/gntlm.logo.png" alt="gNTLM" title="gNTLM" />
+</p>
